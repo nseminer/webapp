@@ -2,3 +2,87 @@ Student15
 labsap.s3-website-us-west-1.amazonaws.com
 https://console.aws.amazon.com/console/home?region=us-east-1#
 522818631138
+
+  1  sudo yum -y install git
+    2  git
+    3* git clone https://github.com/nseminer/webapp.git[1;3A
+    4  cd webapp/
+    5  ls -la
+    6  git status
+    7  git statusit add index.html
+    8  get add index.html
+    9  git add index.html
+   10  git status
+   11  git commit -m "First commit"
+   12  git status
+   13  history
+   14  git push nseminer rame8hrame8h
+   15  git push nseminer
+   16  git push
+   17  git log
+   18  git branch -v
+   19  git branch test
+   20  git branch dev
+   21  git branch -v
+   22  git checkout dev
+   23  git branch -v
+   24  git add *
+   25  git commit
+   26  git commit -m "test"
+   27  git branch -v
+   28  git checkout test
+   29  git merge dev
+   30  git branch -v
+   31  git -ls
+   32  ls
+   33  grep index.html
+   34  grep --index.html
+   35  grep --help
+   36  print index.html
+   37  show index.html
+   38  index.html
+   39  git add *
+   40  git branch -v
+   41  git commit -m "test1"
+   42  git branch -v
+   43  git checkout dev
+   44  git merge test
+   45  git status
+   46  git log
+   47  git push
+   48  git add
+   49  git commit
+   50  git push
+   51  git add index.html
+   52  git commit
+   53  git push
+   54  git remove  -v
+   55  git remote -v
+   56  git push --set-upstream origin webdev-1.0
+   57  git push --set-upstream origin dev:webdev-1.0
+   58  git pull
+   59  git push --set-upstream origin dev:webdev-1.0
+   60  history
+   61  git clone
+   62  history
+   63  git push
+   64  git push --set-upstream origin dev:webdev-1.0
+   65  git pull origin webdev-1.0
+   66  merge
+   67  git merge
+   68  git add *
+   69  git merge
+   70  git commit
+   71  git commit -m "test5"
+   72  git merge
+   73  git pull origin webdev-1.0
+   74  git push --set-upstream origin dev:webdv-1.0
+   75  git push --set-upstream origin dev:webdev-1.0
+   76  git commit
+   77  git add index.html
+   78  git commit
+   79  git add index.html
+   80  git commit -m "test"
+   81  history
+   
+   https://drive.google.com/drive/folders/1zGjwkaR0nr9iqJcot7XBOyspzCf6VwP3
